@@ -1,1 +1,1 @@
-# day-night-video-analyzer-data
+# day-night-video-analyzer
