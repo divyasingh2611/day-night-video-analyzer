@@ -9,7 +9,7 @@ This project provides a Python-based solution for downloading and processing tim
 - Classifying frames as day or night.  
 - Generating annotated videos with brightness analysis and day/night classification.  
 
-Additionally, this project includes a **Gradio demo** to showcase the processing pipeline in a user-friendly interface. Try the demo here: [Gradio Demo Link](#).
+Additionally, this project includes a **Gradio demo** to showcase the processing pipeline in a user-friendly interface. Try the demo here: [Gradio Demo Link](https://huggingface.co/spaces/divyahh/computer-vision).
 
 ---
 
@@ -131,18 +131,6 @@ process_video(input_video, output_video, brightness_threshold=100, slow_factor=2
 ## Gradio Demo
 
 Try the live **Gradio demo** to upload and process your own videos directly in your browser:  
-[Gradio Demo Link](#)
+[Gradio Demo Link](https://huggingface.co/spaces/divyahh/computer-vision)
 
----
 
-## License
-
-This project is distributed under the [Your License Name Here].  
-
----
-
-## Contributing
-
-We welcome contributions! Please review the [contribution guidelines](#) before submitting a pull request.  
-
-For questions or suggestions, feel free to open an issue or contact us directly.
